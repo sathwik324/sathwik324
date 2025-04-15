@@ -1,6 +1,5 @@
 ## Hi there 👋, IM SATHWIK 
 
-<!--
 About Me
 🎓 Education: I'm currently pursuing my B.Tech in Artificial Intelligence and Data Science at Shiv Nadar University Chennai.
 📚 Year: I'm in my 1st year of studies.
