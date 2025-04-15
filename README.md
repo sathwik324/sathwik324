@@ -1,6 +1,6 @@
 ## Hi there 👋, IM SATHWIK 
 
-# Hi there 👋, I'm SATHWIK
+
 
 ---
 
