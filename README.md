@@ -42,8 +42,8 @@
 ## 📬 Contact Me
 
 - 🔗 [GitHub](https://github.com/sathwik324)
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
-- 📧 [Email](mailto:your.email@example.com)
+- 💼 [LinkedIn](https://linkedin.com/in/sathwik-gajula-1a1134325)  
+- 📧 [Email](mailto:gajulasathwik23@gmail.com)
 
 ---
 
