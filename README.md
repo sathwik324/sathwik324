@@ -7,7 +7,7 @@
 ## 🎓 About Me
 
 - 🧑‍🎓 I'm currently pursuing my **B.Tech in Artificial Intelligence and Data Science** at **Shiv Nadar University, Chennai**.
-- 📅 Currently in **1st year** of studies.
+- 📅 Currently in **2nd year** of studies.
 - 🧠 Passionate about transforming data into insights and teaching machines to think like humans.
 - 🔍 Continuously learning new technologies and tools to solve real-world problems.
 
